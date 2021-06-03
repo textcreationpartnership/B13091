@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation prohibiting the vse of the net or engine, called a trawle.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13091</idno><idno type="EEBO-CITATION">99892614</idno>
+  <idno type="VID">185765</idno>
+  <idno type="EEBO-PROQUEST">2240934345</idno>
+  
+            <idno type="STC">STC 9034</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.12[38]</idno>
+            <idno type="STC">ESTC S123782</idno>
+            <idno type="PROQUEST">ocm99892614</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892614e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13091)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185765)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:3[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation prohibiting the vse of the net or engine, called a trawle.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1635</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: White-Hall, the second day of April, in the eleuenth yeare of our reigne. ...</note>
+                  <note>Arms 23; Steele notation: consideration uation 2) and other-.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fishery law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Fishing --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185765:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>¶ A Proclamation prohibiting the vse of the Net or Engine, called a Trawle.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings Most Excellent Maiestie, taking into consideration</hi> the great destruction made of Fish, by a Net or Engine, now called a Trawle, and finding that notwithstanding former Proclamations pro<g ref="char:EOLhyphen"/>hibiting the vse of that Net, Diuers Fisher-men do still vse the same, whereby not onely small and vnsized Fish, but euen the Fry, and Spawne, are vtterly destroyed. And His Maiestie hauing also found, that notwithstanding many Statutes haue beene made for the preser<g ref="char:EOLhyphen"/>uation of the said Spawne and Fry: Yet neuerthelesse, by the destructi<g ref="char:EOLhyphen"/>on thereof, there hath beene of late yeares a greater scarcitie of Fish then in former times; So that His Maiesties Houshold and the Markets are not supplied therewith as they were wont to be, and the whole kind of some Fish, formerly taken vpon the coasts of this Realme in great plenty, are in most places therof now wholly destroyed, being chiefly occasioned by fishing wth the said Trawle, which being laid forth at the Sterne of the Boat or Vessell, and extended to a great breadth by a Pole at the bottome &amp; forepart of the Net (like an Oister Dredge) is drawne so neare the ground by a roape with Sinkers vnder it, as thereby the smallest Fish are moued, and the Boat being vndersaile is drawne with that strength or swiftnesse, that the Meshes being contracted, it taketh them, and moueth also the Slyme and Spawne vpon the ground; For which cause his Maiestie by Proclamation hauing heretofore inhibited the vse of the said Trawle in some cases; But finding that it hath not wrought the reformation that was desired, and that the decay of fish vpon these coasts is likely to be continued, if any vse at all of those Nets shall be permitted: His Maiestie therefore (whose chiefest care is, the welfare and good of His people) to preuent these inconueniences for the future, by the vtter and totall abolishing of the vse of the said Net; Yet willing to giue the Fishermen some reasonable time of prouiding them other fit instruments for Fishing, doth (by the aduice of his Priuy Councill) hereby signifie and declare his Royall Will and Commandement to be,</p>
+            <p>That after the first day of <hi>May</hi> now next comming, to Fisherman, or other person or per<g ref="char:EOLhyphen"/>sons whatsoeuer, shall vse the said Net, called a Trawle in his or their Fishings, Nor any other like Engine or Instrument whatsoeuer now made or deuised, or hereafter to be made or
+<pb facs="tcp:185765:2"/>deuised in imitation or resemblance thereof. And that all such persons as betweene this and the said first day of <hi>May</hi> next shall be permitted to Fish with the said Trawle, shall passe their Boats, or Vessels, whilest they so Fish in the Chanels and Deeps onely, and not in the Sholes and Flats, and that none of them so Fish with their Boats, or Vessels vnder Sayle, but by being moued onely with the Set of the Tyde, and that the Mesh of their Nets be according to the Lawes and Customes of this Our Realme in that behalfe; vpon paine (for the first offence) of the confiscation and losse of such their Nets, and the Boats and Vessels wherein they shall so Fish; And for their second offence to be further punished by Fine and Imprisonment in His Maiesties High Court of Starre-Chamber, or other His Courts of Iustice, for their con<g ref="char:EOLhyphen"/>tempt or neglect of His Maiesties Royall Pleasure, and Commandement herein declared.</p>
+            <p>And for the better reforming and suppressing of the Abuses before-named; His Maiestie doth hereby further straitly charge and command, That from henceforth no Soale, Turbut, Purle, or Place, vnder the Assize of eight Inches in length besides the tayle, be caught, killed, bought or sold in any Market, or otherwise by Sea, or Land, by any person or persons, of what estate, degree, or condition soeuer he, or they shall be, vpon paine of the losse of the same vnsized Fish, which it shall be lawfull for the Clerke of the Market, or any other his Maiesties Officers, from time to time to seize, take away, and giue to the poore wheresoeuer the same Fish shall be found by Sea or Land; And that the said Clerke of the Market, or other Officer, within sixe dayes after such seizure, doe deliuer to the Iudge of the Admiraltie, in whose Iurisdiction the said vnsized Fish shall be found, or to the Vice-Admirall of the County, where the same shall be seized, a note vnder their hands of such Delinquents names, and of the place of their abode, with testimony that the Fish by him or them so seized, was vnsized; To the end that the Offenders therin, aswell the buyer, as the seller of any such Fish, whether in Market, or otherwise, may be proceeded against and punished by Fine, and Imprisonment, and otherwise, according to their demerits.</p>
+            <p>And lastly, His Maiestie doth require and enioyne all his Iudges, and Iustices of Oyer and Terminer, Iustices of Assize in their seuerall Circuits, and Iustices of Peace in their Sessions, and all Admirals and Vice-Admirals, their Deputies and Commissaries, and all Conseruators of Riuers and Waters, Stewards of Leets, and other His Maiesties Officers and Ministers from time to time, to make diligent inquiry of all such person and persons whatsoeuer, as shall offend in any of the premisses, contrary to His Maiesties Will and Pleasure herein expressed, and thereupon to proceed against, and punish the Offendors by Fine and Imprisonment, or other<g ref="char:EOLhyphen"/>wise, according to His Maiesties Lawes.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at White-Hall, </hi>
+                  <date>
+                     <hi>the second day of April, in the eleuenth yeare of Our Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by ROBERT BARKER, Printer to the Kings most excellent Maiestie: And by the Assignes of IOHN BILL. 1635.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
